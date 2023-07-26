@@ -36,13 +36,13 @@ Enumera las principales características de tu proyecto. Por ejemplo:
 - Característica 2
 - Característica 3
 
-## Capturas de pantalla
-
-Si tienes alguna captura de pantalla o imagen relevante para mostrar, inclúyelas aquí.
-
 ## Requisitos
 
-Enumera los requisitos necesarios para ejecutar tu proyecto. Puede ser software específico, bibliotecas o cualquier otro componente necesario.
+El sistema de gestión para restaurant puede requerir:
+
+Computadoras o dispositivos con acceso a Internet para acceder a la aplicación.
+Un servidor o alojamiento web para alojar la base de datos y la aplicación.
+Impresoras para imprimir facturas o pedidos en la cocina, según sea necesario.
 
 ## Instalación
 
@@ -66,5 +66,5 @@ Proporciona información de contacto, como tu correo electrónico o enlaces a tu
 
 ## Agradecimientos
 
-Si tienes agradecimientos para dar, puedes incluirlos aquí.
+A mi mamita que siempre esta ahi para mi y por esto hice este sistema RESTAURANT SU SAZON 
 

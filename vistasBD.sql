@@ -1,4 +1,1 @@
-CREATE VIEW V_PRODUCTOS AS 
-	SELECT p.*, m.nombre as marca
-	FROM productos p
-	    INNER JOIN marcas m ON p.id = m.id
+select `p`.`id` AS `id`,`p`.`nombre` AS `nombre`,`p`.`descripcion` AS `descripcion`,`p`.`precio_unitario` AS `precio_unitario`,`p`.`stock` AS `stock`,`p`.`imagen` AS `imagen`,`p`.`estado` AS `estado`,`c`.`nombre` AS `carta` from (`dbventas2023`.`producto` `p` join `dbventas2023`.`carta` `c` on(`p`.`id` = `c`.`id`))
